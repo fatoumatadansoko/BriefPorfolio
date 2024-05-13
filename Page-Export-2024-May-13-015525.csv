@@ -1,0 +1,183 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink
+2,"Page d’exemple","<!-- wp:paragraph -->
+<p>Ceci est une page d’exemple. C’est différent d’un article de blog parce qu’elle restera au même endroit et apparaîtra dans la navigation de votre site (dans la plupart des thèmes). La plupart des gens commencent par une page « À propos » qui les présente aux personnes visitant le site. Cela pourrait ressembler à quelque chose comme cela :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote""><p>Bonjour ! Je suis un mécanicien qui aspire à devenir acteur, et voici mon site. J’habite à Bordeaux, j’ai un super chien baptisé Russell, et j’aime la vodka (ainsi qu’être surpris par la pluie soudaine lors de longues balades sur la plage au coucher du soleil).</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>…ou quelque chose comme cela :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote""><p>La société 123 Machin Truc a été créée en 1971, et n’a cessé de proposer au public des machins-trucs de qualité depuis lors. Située à Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson, 123 Machin Truc emploie 2 000 personnes, et fabrique toutes sortes de bidules supers pour la communauté bouzemontoise.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>En tant que nouvel utilisateur ou utilisatrice de WordPress, vous devriez vous rendre sur <a href=""https://dev-porfoliofatima.pantheonsite.io/wp-admin/"">votre tableau de bord</a> pour supprimer cette page et créer de nouvelles pages pour votre contenu. Amusez-vous bien !</p>
+<!-- /wp:paragraph -->",,"2024-05-10 10:41:58",page,https://dev-porfoliofatima.pantheonsite.io/?page_id=2
+3,"Politique de confidentialité","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Qui sommes-nous ?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>L’adresse de notre site est : https://dev-porfoliofatima.pantheonsite.io.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Commentaires</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Quand vous laissez un commentaire sur notre site, les données inscrites dans le formulaire de commentaire, ainsi que votre adresse IP et l’agent utilisateur de votre navigateur sont collectés pour nous aider à la détection des commentaires indésirables.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Une chaîne anonymisée créée à partir de votre adresse e-mail (également appelée hash) peut être envoyée au service Gravatar pour vérifier si vous utilisez ce dernier. Les clauses de confidentialité du service Gravatar sont disponibles ici : https://automattic.com/privacy/. Après validation de votre commentaire, votre photo de profil sera visible publiquement à coté de votre commentaire.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Médias</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Si vous téléversez des images sur le site, nous vous conseillons d’éviter de téléverser des images contenant des données EXIF de coordonnées GPS. Les personnes visitant votre site peuvent télécharger et extraire des données de localisation depuis ces images.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Si vous déposez un commentaire sur notre site, il vous sera proposé d’enregistrer votre nom, adresse e-mail et site dans des cookies. C’est uniquement pour votre confort afin de ne pas avoir à saisir ces informations si vous déposez un autre commentaire plus tard. Ces cookies expirent au bout d’un an.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Si vous vous rendez sur la page de connexion, un cookie temporaire sera créé afin de déterminer si votre navigateur accepte les cookies. Il ne contient pas de données personnelles et sera supprimé automatiquement à la fermeture de votre navigateur.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Lorsque vous vous connecterez, nous mettrons en place un certain nombre de cookies pour enregistrer vos informations de connexion et vos préférences d’écran. La durée de vie d’un cookie de connexion est de deux jours, celle d’un cookie d’option d’écran est d’un an. Si vous cochez « Se souvenir de moi », votre cookie de connexion sera conservé pendant deux semaines. Si vous vous déconnectez de votre compte, le cookie de connexion sera effacé.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>En modifiant ou en publiant une publication, un cookie supplémentaire sera enregistré dans votre navigateur. Ce cookie ne comprend aucune donnée personnelle. Il indique simplement l’ID de la publication que vous venez de modifier. Il expire au bout d’un jour.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Contenu embarqué depuis d’autres sites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Les articles de ce site peuvent inclure des contenus intégrés (par exemple des vidéos, images, articles…). Le contenu intégré depuis d’autres sites se comporte de la même manière que si le visiteur se rendait sur cet autre site.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Ces sites web pourraient collecter des données sur vous, utiliser des cookies, embarquer des outils de suivis tiers, suivre vos interactions avec ces contenus embarqués si vous disposez d’un compte connecté sur leur site web.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Utilisation et transmission de vos données personnelles</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Si vous demandez une réinitialisation de votre mot de passe, votre adresse IP sera incluse dans l’e-mail de réinitialisation.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Durées de stockage de vos données</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Si vous laissez un commentaire, le commentaire et ses métadonnées sont conservés indéfiniment. Cela permet de reconnaître et approuver automatiquement les commentaires suivants au lieu de les laisser dans la file de modération.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Pour les comptes qui s’inscrivent sur notre site (le cas échéant), nous stockons également les données personnelles indiquées dans leur profil. Tous les comptes peuvent voir, modifier ou supprimer leurs informations personnelles à tout moment (à l’exception de leur identifiant). Les gestionnaires du site peuvent aussi voir et modifier ces informations.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Les droits que vous avez sur vos données</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Si vous avez un compte ou si vous avez laissé des commentaires sur le site, vous pouvez demander à recevoir un fichier contenant toutes les données personnelles que nous possédons à votre sujet, incluant celles que vous nous avez fournies. Vous pouvez également demander la suppression des données personnelles vous concernant. Cela ne prend pas en compte les données stockées à des fins administratives, légales ou pour des raisons de sécurité.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Où vos données sont envoyées</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class=""privacy-policy-tutorial"">Texte suggéré : </strong>Les commentaires des visiteurs peuvent être vérifiés à l’aide d’un service automatisé de détection des commentaires indésirables.</p>
+<!-- /wp:paragraph -->
+",,"2024-05-10 10:41:58",page,https://dev-porfoliofatima.pantheonsite.io/?page_id=3
+8,Accueil,"<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2>Marie LAPAGE</h2>		
+			<h2>Booster votre stratégie digitale avec mes conseils</h2>		
+		<p>Créer un site au graphisme exceptionnel avec une expérience d'utilisateur pensée pour générer des clients</p>		
+			<a href=""#"">
+									Mes services
+					</a>
+			<a href=""#"">
+				<svg aria-hidden=""true"" viewBox=""0 0 576 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z""></path></svg>			
+									Voir la méthode
+					</a>
+			<h2>Création de sites</h2>		
+			<h2>Je cous aide à créer rapidement un site au design unique</h2>		
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"""";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		
+		<p>""Vous êtes excellent dans votre domaine, vous maitrisez bien votre sujet, vous vous souciez de vos clients et vous voulez développez votre entreprise. Mais votre site ! eh bien il raconte une autre histoire, n'est ce pas?"" Changeons cela ensemble</p>		
+			<link rel=""stylesheet"" href=""https://dev-porfoliofatima.pantheonsite.io/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"">		<ul>
+							<li>
+							<svg aria-hidden=""true"" viewBox=""0 0 512 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z""></path></svg>						
+										Design qui reflete votre identité
+									</li>
+								<li>
+							<svg aria-hidden=""true"" viewBox=""0 0 512 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z""></path></svg>						
+										Expérience utilisateur bien pensée
+									</li>
+								<li>
+							<svg aria-hidden=""true"" viewBox=""0 0 512 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z""></path></svg>						
+										Site pensé pour obtenir des clients
+									</li>
+						</ul>
+			<a href=""#"">
+									Qui suis je?
+					</a>
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$="".svg""]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img width=""800"" height=""786"" src=""https://dev-porfoliofatima.pantheonsite.io/wp-content/uploads/2024/05/Image-N┬░2.png"" alt="""" srcset=""https://dev-porfoliofatima.pantheonsite.io/wp-content/uploads/2024/05/Image-N┬░2.png 835w, https://dev-porfoliofatima.pantheonsite.io/wp-content/uploads/2024/05/Image-N┬░2-300x295.png 300w, https://dev-porfoliofatima.pantheonsite.io/wp-content/uploads/2024/05/Image-N┬░2-768x754.png 768w"" sizes=""(max-width: 800px) 100vw, 800px"" />													
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-counter{display:flex;justify-content:center;align-items:stretch;flex-direction:column-reverse}.elementor-counter .elementor-counter-number{flex-grow:var(--counter-number-grow,0)}.elementor-counter .elementor-counter-number-wrapper{flex:1;display:flex;font-size:69px;font-weight:600;line-height:1;text-align:center}.elementor-counter .elementor-counter-number-prefix{text-align:end;flex-grow:var(--counter-prefix-grow,1);white-space:pre-wrap}.elementor-counter .elementor-counter-number-suffix{text-align:start;flex-grow:var(--counter-suffix-grow,1);white-space:pre-wrap}.elementor-counter .elementor-counter-title{flex:1;display:flex;justify-content:center;align-items:center;margin:0;padding:0;font-size:19px;font-weight:400;line-height:2.5}</style>		
+			Croissance			
+				+
+				0
+				%
+			CLIENTS			
+				+
+				0
+			PARTENAIRES			
+				+
+				0
+			CLIENTS SATISFAITS			
+				+
+				0
+				%
+			<link rel=""stylesheet"" href=""https://dev-porfoliofatima.pantheonsite.io/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css"">		
+				<svg aria-hidden=""true"" viewBox=""0 0 640 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63l58.35 58.34zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63zM624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z""></path></svg>				
+									<h3>
+							Webdesign						
+					</h3>
+									<p>
+						Besoin d'un site pro, mais par ou commencer?
+En tent que freelance web, je crée des sites personnalisés pour les PME. Je travaille avec vous pour concevoir un site unique qui reflete votre marque et votre identité.					</p>
+				<svg aria-hidden=""true"" viewBox=""0 0 512 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M204.3 5C104.9 24.4 24.8 104.3 5.2 203.4c-37 187 131.7 326.4 258.8 306.7 41.2-6.4 61.4-54.6 42.5-91.7-23.1-45.4 9.9-98.4 60.9-98.4h79.7c35.8 0 64.8-29.6 64.9-65.3C511.5 97.1 368.1-26.9 204.3 5zM96 320c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm32-128c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128-64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128 64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z""></path></svg>				
+									<h3>
+							Graphisme						
+					</h3>
+									<p>
+						Besoin d'un site pro, mais par ou commencer?
+En tent que freelance web, je crée des sites personnalisés pour les PME. Je travaille avec vous pour concevoir un site unique qui reflete votre marque et votre identité.					</p>
+				<svg aria-hidden=""true"" viewBox=""0 0 640 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z""></path></svg>				
+									<h3>
+							Formation						
+					</h3>
+									<p>
+						Besoin d'un site pro, mais par ou commencer?
+En tent que freelance web, je crée des sites personnalisés pour les PME. Je travaille avec vous pour concevoir un site unique qui reflete votre marque et votre identité.					</p>
+			<svg aria-hidden=""true"" viewBox=""0 0 512 512"" xmlns=""http://www.w3.org/2000/svg""><path d=""M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z""></path></svg>			
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-testimonial-wrapper{overflow:hidden;text-align:center}.elementor-testimonial-wrapper .elementor-testimonial-content{font-size:1.3em;margin-bottom:20px}.elementor-testimonial-wrapper .elementor-testimonial-name{line-height:1.5;display:block}.elementor-testimonial-wrapper .elementor-testimonial-job{font-size:.85em;display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta{width:100%;line-height:1}.elementor-testimonial-wrapper .elementor-testimonial-meta-inner{display:inline-block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image{display:table-cell;vertical-align:middle}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img{width:60px;height:60px;border-radius:50%;-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-inline-end:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:start}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style>		
+							""Marie a créée mon site avec professionnalisme elle a écouté mes besoins apportés des idées et créée un site web moderne et professionnel qui reflète parfaitement mon entreprise. Je recommande vivement ses services pour un site web qui attire les clients""
+							<img width=""760"" height=""760"" src=""https://dev-porfoliofatima.pantheonsite.io/wp-content/uploads/2024/05/A-propos-Collab-3.jpg"" alt="""" />						
+														Jeremy TURSIT
+																						Agent immobilier
+			<h2>Je vous guide</h2>		
+			<h2>Découvrir mes projets récents</h2>		
+			<a href=""#"">
+									Voir mon porfolio
+					</a>",,"2024-05-11 12:06:05",page,https://dev-porfoliofatima.pantheonsite.io/
+67,Services,,,"2024-05-12 20:06:55",page,https://dev-porfoliofatima.pantheonsite.io/services/
+69,"A propos",,,"2024-05-12 20:11:48",page,https://dev-porfoliofatima.pantheonsite.io/a-propos/
+74,Porfolio,,,"2024-05-12 20:16:54",page,https://dev-porfoliofatima.pantheonsite.io/porfolio/
+79,Contact,,,"2024-05-12 20:17:27",page,https://dev-porfoliofatima.pantheonsite.io/contact/
+84,Blog,,,"2024-05-12 20:22:47",page,https://dev-porfoliofatima.pantheonsite.io/blog/
